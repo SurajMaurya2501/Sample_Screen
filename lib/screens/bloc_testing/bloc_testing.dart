@@ -8,7 +8,6 @@ class CounterScreen extends StatefulWidget {
   @override
   State<CounterScreen> createState() => _CounterScreenState();
 }
-
 class _CounterScreenState extends State<CounterScreen> {
   @override
   Widget build(BuildContext context) {
